@@ -95,7 +95,7 @@ class HTMLGenerator:
         "<html><body>", "<html><body><h1>", "<html><body><p>", "<html><body><div>", "<html><body><span>",
         "<html><body><ul>", "<html><body><li>", "<html><body><a>", "<html><body><img>", "<html><body><table>",
         "<html><body><form>", "<html><body><input>", "<html><body><button>", "<html><body><header>", "<html><body><footer>",
-        # ... (rest of your prompts)
+    
     ]
 
     def __init__(self):
